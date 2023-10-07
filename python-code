@@ -1,6 +1,6 @@
 import cv2
 
-cap = cv2.VideoCapture(r"/home/gorilla/Mtech/Thesis work/my project/data set problem 3/data_proj3/video/Damage1.mp4")
+cap = cv2.VideoCapture(r"/home/gorilla/Mtech/Thesis work/my project/data set problem 3/data_proj3/video/Damage1.mp4")//taking the video input.
 cap.set(3, 640)
 cap.set(4, 480)
 
